@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zARzrhq3t21ynjJASZMmPl6siT/rLsWoR9JGJFheYGM=",
+  "Source": "ExampleApiWithEntity",
+  "BasePath": "_content/ExampleApiWithEntity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
