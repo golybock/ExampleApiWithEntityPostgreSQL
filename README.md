@@ -4,7 +4,6 @@
 Необходимые библиотеки:
 
 - Npgsql.EntityFrameworkCore.PostgreSql
-- Npgsql.EntityFrameworkCore.PostgreSql.Design
 - Miсrosoft.EntityFrameworkCore
 - Miсrosoft.EntityFrameworkCore.Design
 - Miсrosoft.EntityFrameworkCore.Tools
